@@ -1,0 +1,10 @@
+body  {  	
+	margin: 0;  	
+	padding: 0;  	
+	background: gainsboro;  
+    } 
+#container  {  	
+    margin: 1em auto;  	
+    width: 650px;  	
+    background: gainsboro;  
+    } 
